@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Hillary 👋
 
-<!--
-**greatestfuturestar/greatestfuturestar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer | Backend Systems | APIs | Security Tools
 
-Here are some ideas to get you started:
+I build backend systems, APIs, and security-focused applications that solve real problems and improve system reliability and data protection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+* Python
+* REST APIs
+* Git & GitHub
+
+## Projects
+
+* Secure User Management API
+* Security Auditor
+* Task Manager Web App
