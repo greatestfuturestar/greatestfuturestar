@@ -1,17 +1,11 @@
-# Hi, I'm Hillary 👋
+Hi, I'm Hillary 👋
 
-Python Developer | Backend Systems | APIs | Security Tools
+Junior Python Developer focused on Backend Development.
 
-I build backend systems, APIs, and security-focused applications that solve real problems and improve system reliability and data protection.
+I build small backend applications and APIs while learning:
+• REST API development
+• Authentication systems
+• Backend security fundamentals
+• Cloud and DevOps concepts
 
-## Tech
-
-* Python
-* REST APIs
-* Git & GitHub
-
-## Projects
-
-* Secure User Management API
-* Security Auditor
-* Task Manager Web App
+Currently improving my skills by building practical Python projects.
