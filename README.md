@@ -92,7 +92,7 @@ I’m open to:
 - Real-world system-building projects
 
 📫 Email: greatestfuturestar1@gmail.com  
-🌐 LinkedIn: [your-linkedin-url]
+🌐 LinkedIn: https://www.linkedin.com/in/hillary-andobe-351680337/?skipRedirect=true
 
 ---
 
